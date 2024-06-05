@@ -35,6 +35,7 @@
     background-color:#811D15;
     text-align:center;
     line-height:30px;
+    font-weight:bold;
     }
     #content-div{
     width:100%;
@@ -50,6 +51,7 @@
     float:left;
     text-align:center;
     line-height:400px;
+    font-weight:bold;
     }
     #main-div{
     width:80%;
